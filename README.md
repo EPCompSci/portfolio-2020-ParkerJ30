@@ -9,7 +9,8 @@ Hello, I am Parker Johnson. I am currently a Senior at Eden Prairie Highschool. 
 
 
 
-[Break the Block Game](https://github.com/ParkerJ30/Break-the-Block-game)
+[Break the Block Game](https://github.com/ParkerJ30/Break-the-Block-game) This was the first app I created by myself in APCSP
+
 ![BreakeBlock UI](https://github.com/ParkerJ30/Break-the-Block-game/blob/main/Screen%20Shot%202020-11-05%20at%2010.19.15%20AM.png)
 
 [1942 Airplane Game](https://github.com/ParkerJ30/Airplane-1942-game)
