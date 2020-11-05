@@ -18,6 +18,8 @@ This was the first app I created by myself in APCSP. The picture above show case
 
 [1942 Airplane Game](https://github.com/ParkerJ30/Airplane-1942-game)
 
+![1942Airplane UI](https://github.com/ParkerJ30/Airplane-1942-game/blob/main/Screen%20Shot%202020-11-05%20at%2010.36.20%20AM.png)
+
 
 [Code Organizor APP](https://github.com/ParkerJ30/Code-Organize-App)
 
