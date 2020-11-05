@@ -13,7 +13,7 @@ Hello, I am Parker Johnson. I am currently a Senior at Eden Prairie Highschool. 
 
 ![BreakeBlock UI](https://github.com/ParkerJ30/Break-the-Block-game/blob/main/Screen%20Shot%202020-11-05%20at%2010.19.15%20AM.png)
 
-This was the first app I created by myself in APCSP
+This was the first app I created by myself in APCSP. The picture above show cases one of the three leves in the game. In this game you use your finger to drag the rectangle along the screen and use it as a trampoline. A ball will fly around and you have to keep it from hitting the bottom by using the trampoline. As the ball bounces around it will destroy the mines in this level. Once all the mines are broken you win the game. This was one of the first games I learned to use sprites. It was a little complicated to get the ball to move randomly and for it to react to the other sprites by bouncing off of them. But eventually I got it and it was a great achievment for me using sprites.
 
 
 [1942 Airplane Game](https://github.com/ParkerJ30/Airplane-1942-game)
