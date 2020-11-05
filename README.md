@@ -9,12 +9,12 @@ Hello, I am Parker Johnson. I am currently a Senior at Eden Prairie Highschool. 
 
 
 
-[Break the Block APP](https://github.com/ParkerJ30/Break-the-Block-game)
+[Break the Block Game](https://github.com/ParkerJ30/Break-the-Block-game)
 
 
-https://github.com/ParkerJ30/Airplane-1942-game
+[1942 Airplane Game](https://github.com/ParkerJ30/Airplane-1942-game)
 
-https://github.com/ParkerJ30/Code-Organize-App 
+[Code Organizor APP](https://github.com/ParkerJ30/Code-Organize-App)
 Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
 
 I'd like you to consider this assignment as a way to get a job / internship / independent contract with someone outside the school.
