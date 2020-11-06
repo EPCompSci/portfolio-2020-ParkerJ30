@@ -20,6 +20,7 @@ This was the first app I created by myself in APCSP. The picture above show case
 
 ![1942Airplane UI](https://github.com/ParkerJ30/Airplane-1942-game/blob/main/Screen%20Shot%202020-11-05%20at%2010.36.20%20AM.png)
 
+This was the second game I created by myself in APCSP. This game was based off of the arcade game 1942. In this game you control the plane on the bottom screen and you can move it back and forth. In addition to this you also have a shoot button that shoots missles to the oncoming planes. The oncoming plane appears at the top of the screen, you try to shoot this plane down and if it hits the bottom of the screen you lose. This app even further developed my understanding of sprites and how to control them and how to react to each other. In additon I learned how to use CloudDps which I used in enable to keep track of the highscore and save it when the app is closed out. 
 
 [Code Organizor APP](https://github.com/ParkerJ30/Code-Organize-App)
 
