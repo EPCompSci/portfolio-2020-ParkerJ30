@@ -26,3 +26,7 @@ This was the second game I created by myself in APCSP. This game was based off o
 
 This app was the first app that I created using swift in Xcode. I created this app in order to input my exisiting code in so I wouldnt have to relearn how to do everything. In this app I learned how to use tab and scroll views. I also learned how to switch pages and create icons for the app. I learned this code mostly by searching it up and using apple developer. Overall I was really proud of this app and really helped me understand the basics of swift.
 
+[EPHS APP](https://github.com/connorholm/EPHS-App)
+
+This App is the project I am currently working on. It allows students at EPHS to access their assignments, their clubs, and have easy access links to other EPHS websites. We are using schoology's API to put the assignmnets into the app. We are also having live timer that counts the time of class left, which is eventually gonna become a widget. This is a large app and its going to take a very long time but it is very fun to create and the results will be worth the effort.
+
