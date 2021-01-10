@@ -28,7 +28,7 @@ This app was the first app that I created using swift in Xcode. I created this a
 
 [EPHS APP](https://github.com/connorholm/ephsapp2020)
 
-<img src="https://github.com/connorholm/ephsapp2020/blob/main/Intro%20photos%20/un-edited/IMG_9030.jpg" height="400" width="600">
+<img src="https://github.com/connorholm/ephsapp2020/blob/main/Intro%20photos%20/un-edited/IMG_9030.jpg" height="200" width="600">
 
 
 This is the final app I that I helped create in IOS using the swift language. I was on a team with 5 other people to create this app: @AdrianColaianni @connorholm @rachelPark1 @jackgsch @jmblanco22 . This app was created to assist EPHS students. This app takes each individual students api keys from their Schoology page to portray specific information for them. This app is also offically on the appstore underneath the name EPHS.
