@@ -26,7 +26,15 @@ This was the second game I created by myself in APCSP. This game was based off o
 
 This app was the first app that I created using swift in Xcode. I created this app in order to input my exisiting code in so I wouldnt have to relearn how to do everything. In this app I learned how to use tab and scroll views. I also learned how to switch pages and create icons for the app. I learned this code mostly by searching it up and using apple developer. Overall I was really proud of this app and really helped me understand the basics of swift.
 
-[EPHS APP](https://github.com/connorholm/EPHS-App)
+[EPHS APP](https://github.com/connorholm/ephsapp2020)
 
-This App is the project I am currently working on. It allows students at EPHS to access their assignments, their clubs, and have easy access links to other EPHS websites. We are using schoology's API to put the assignmnets into the app. We are also having live timer that counts the time of class left, which is eventually gonna become a widget. This is a large app and its going to take a very long time but it is very fun to create and the results will be worth the effort.
+This is the final app I that I helped create in IOS using the swift language. I was on a team with 5 other people to create this app. This app was created to assist EPHS students. This app takes each individual students api keys from their Schoology page to portray specific information for them.
+- The first tab in this app allows users to view their classes and what assignments they have completed in each class. This tab uses schoologys api to recieve this information and then portray it for each individual students so the information is specialized specifically for them. 
+-It allows the user to view announcments their teachers have made from their schoology course. Once again this uses Schoologys api to get this information for each specific student.
+-It has an easily accesible menu tab that has buttons that when pressed leads the user to a webview cordinating to the button they press. Some examples are the EPHS campus login, Eagle Vision News, registration for counselor appointments, etc.
+- It has a tab that allows the user to view their grades as they appear on schoology. It lists the class and the percent grade of the class. This also uses Schoologys api to get the information for each individual student.
+
+Additonal Features:
+- Has a timer that portrays how much time is left in each hour and what hour we are in. It also changes based on what day it is to follow the correct schedule. 
+- Has an optional guest login option instead of allowing their user to use their own api keys to get their own information. This limits their options on what they an use on the app but still allows basic features such as the website links.
 
