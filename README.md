@@ -27,7 +27,7 @@ This was the second game I created by myself in APCSP. This game was based off o
 This app was the first app that I created using swift in Xcode. I created this app in order to input my exisiting code in so I wouldnt have to relearn how to do everything. In this app I learned how to use tab and scroll views. I also learned how to switch pages and create icons for the app. I learned this code mostly by searching it up and using apple developer. Overall I was really proud of this app and really helped me understand the basics of swift.
 
 [EPHS APP](https://github.com/connorholm/ephsapp2020)
-<img src="https://github.com/connorholm/ephsapp2020/blob/main/Intro%20photos%20/un-edited/IMG_9030.jpg"width"100" height="100">
+![EPHS APP UI](https://github.com/connorholm/ephsapp2020/blob/main/Intro%20photos%20/un-edited/IMG_9030.jpg | width=48 )
 
 This is the final app I that I helped create in IOS using the swift language. I was on a team with 5 other people to create this app: @AdrianColaianni @connorholm @rachelPark1 @jackgsch @jmblanco22 . This app was created to assist EPHS students. This app takes each individual students api keys from their Schoology page to portray specific information for them. This app is also offically on the appstore underneath the name EPHS.
 - The first tab in this app allows users to view their classes and what assignments they have completed in each class. This tab uses schoologys api to recieve this information and then portray it for each individual students so the information is specialized specifically for them. 
