@@ -28,7 +28,7 @@ This app was the first app that I created using swift in Xcode. I created this a
 
 [EPHS APP](https://github.com/connorholm/ephsapp2020)
 
-This is the final app I that I helped create in IOS using the swift language. I was on a team with 5 other people to create this app. This app was created to assist EPHS students. This app takes each individual students api keys from their Schoology page to portray specific information for them.
+This is the final app I that I helped create in IOS using the swift language. I was on a team with 5 other people to create this app: @AdrianColaianni @connorholm @rachelPark1 @jackgsch @jmblanco22 . This app was created to assist EPHS students. This app takes each individual students api keys from their Schoology page to portray specific information for them. This app is also offically on the appstore underneath the name EPHS.
 - The first tab in this app allows users to view their classes and what assignments they have completed in each class. This tab uses schoologys api to recieve this information and then portray it for each individual students so the information is specialized specifically for them. 
 - It allows the user to view announcments their teachers have made from their schoology course. Once again this uses Schoologys api to get this information for each specific student.
 - It has an easily accesible menu tab that has buttons that when pressed leads the user to a webview cordinating to the button they press. Some examples are the EPHS campus login, Eagle Vision News, registration for counselor appointments, etc.
