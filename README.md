@@ -28,6 +28,11 @@ What I learned:
 
 This was the second game I created by myself in APCSP. This game was based off of the arcade game 1942. In this game you control the plane on the bottom screen and you can move it back and forth. In addition to this you also have a shoot button that shoots missles to the oncoming planes. The oncoming plane appears at the top of the screen, you try to shoot this plane down and if it hits the bottom of the screen you lose. This app even further developed my understanding of sprites and how to control them and how to react to each other. In additon I learned how to use CloudDps which I used in enable to keep track of the highscore and save it when the app is closed out.  I created this app using MIT App Inventor.
 
+What I learned:
+- Sprites (2 moving sprites interact, z posititon of sprites)
+- CloudDps (data saves when screen switches and app closes)
+- Clocks (continous movement of sprites)
+
 [Code Organizor APP](https://github.com/ParkerJ30/Code-Organize-App)
 
 This app was the first app that I created using swift in Xcode. I created this app in order to input my exisiting code in so I wouldnt have to relearn how to do everything. In this app I learned how to use tab and scroll views. I also learned how to switch pages and create icons for the app. I learned this code mostly by searching it up and using apple developer. Overall I was really proud of this app and really helped me understand the basics of swift.
@@ -45,4 +50,7 @@ This is the final app I that I helped create in IOS using the swift language. I 
 Additonal Features:
 - Has a timer that portrays how much time is left in each hour and what hour we are in. It also changes based on what day it is to follow the correct schedule. 
 - Has an optional guest login option instead of allowing their user to use their own api keys to get their own information. This limits their options on what they an use on the app but still allows basic features such as the website links.
+
+What I learned:
+- 
 
