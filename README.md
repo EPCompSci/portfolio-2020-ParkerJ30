@@ -37,6 +37,12 @@ What I learned:
 
 This app was the first app that I created using swift in Xcode. I created this app in order to input my exisiting code in so I wouldnt have to relearn how to do everything. In this app I learned how to use tab and scroll views. I also learned how to switch pages and create icons for the app. I learned this code mostly by searching it up and using apple developer. Overall I was really proud of this app and really helped me understand the basics of swift.
 
+What I learned:
+- Tab & Scroll views (display information organized)
+- Scene delegates (how to switch screens within swift)
+- UI (how to arrange; color; and size fonts and images)
+- Image editing (how to create app icon using sketch and noun project)
+
 [EPHS APP](https://github.com/connorholm/ephsapp2020)
 
 <img src="https://github.com/connorholm/ephsapp2020/blob/main/Intro%20photos%20/un-edited/IMG_9030.jpg" height="550" width="245"><img src="https://github.com/connorholm/ephsapp2020/blob/main/Intro%20photos%20/un-edited/IMG_9034.jpg" height="550" width="250"><img src="https://github.com/connorholm/ephsapp2020/blob/main/Intro%20photos%20/un-edited/IMG_9037.jpg" height="550" width="250"><img src="https://github.com/connorholm/ephsapp2020/blob/main/Intro%20photos%20/un-edited/IMG_9040.jpg" height="550" width="250">
@@ -52,5 +58,8 @@ Additonal Features:
 - Has an optional guest login option instead of allowing their user to use their own api keys to get their own information. This limits their options on what they an use on the app but still allows basic features such as the website links.
 
 What I learned:
-- 
-
+- Cases (how to have multiple cases for one line of code)
+- Webview (links open within app instead of outside)
+- Appstore & Testflight (How to put apps into test flight and the appstore)
+- Image editing (creation of appstore promo pics)
+- Github (how to use Github as a team, and use source control commands)
